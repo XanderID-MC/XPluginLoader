@@ -1,0 +1,10 @@
+---
+name: XPluginLoader
+version: 1.0.0
+load: STARTUP
+main: XanderID\XPluginLoader\XPluginLoader
+api: 5.0.0
+description: Simplifying Plugin Management for PocketMine-MP Servers.
+author: XanderID
+website: https://github.com/XanderID-MC/XPluginLoader
+...

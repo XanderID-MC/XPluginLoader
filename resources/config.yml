@@ -1,0 +1,20 @@
+---
+# Don't edit this, if you don't know what you're doing
+config-version: 1.0
+
+# Loader Options
+loader:
+  # Load Plugin with a Folder?
+  folder: true
+  # Load Plugin with a Zip?
+  # Note:
+  # - Please don't Password the Zip File!
+  # - Not recommended, Please Use Phar if you want to Archive Plugin
+  # - Set allow_url_include=1 in php.ini
+  zip: false
+
+# Add your Category Folder Name Here
+# Please be reminded that the Root Category Folder should not have plugin.yml and src folders.
+categories:
+  - "Main"
+...
