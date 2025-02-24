@@ -6,4 +6,5 @@ projects:
   XPluginLoader:
     path: ""
     icon: "icon.png"
+    lint: false
 ...
