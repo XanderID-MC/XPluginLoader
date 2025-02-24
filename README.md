@@ -41,7 +41,7 @@ categories:
 ```
 
 # Screenshot
-- My structure Plugins folder
+- My structure Plugins folder<br />
   ![Screenshot-1](https://raw.githubusercontent.com/XanderID-MC/XPluginLoader/refs/heads/main/.assets/Screenshot-1.png)
 
 # Todo List
